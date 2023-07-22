@@ -1,0 +1,649 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\BABITA\.gradle\caches\transforms-3\4a0ee0fbf27d4f7720df1f9f8f2049e6\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\BABITA\.gradle\caches\transforms-3\69c49aa4f42760d4c0185d0f75c65018\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\BABITA\.gradle\caches\transforms-3\abf968ab37999b7b57264254c7a3c487\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\BABITA\.gradle\caches\transforms-3\43d8000e9635302aac953e44cd2eaab9\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\BABITA\.gradle\caches\transforms-3\84b3c2787a7215259fd039d023707f4b\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\43863111414e0f7385ecab8bd5d0132c\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\0cafd81d7f7dc16e00ea648ec8c04654\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\4f2565e9f06dfaf8ca7f8bfea6de6c70\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\85ed68ceb7371b0770c00493ee15c731\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\9bc68f3d2f7db2eb18032461333538e7\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\BABITA\.gradle\caches\transforms-3\11f1f6c5c0bdb7d4308dca0a5b5de9ea\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\d11e0713847f4ba180839706dd818d2f\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\a051e45db112f16bc22ccfddb48e42d2\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\559a35a2e5d86904e8bc9d8f988acce4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\480761c712388bc147623ca6dc2f9114\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\704e7e707cfb6517b3de339af63f44f2\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\7d409458147ac5ea985b3c2d2e86340e\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\5b6dedf8dbfb9eecf07ac56da952583b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\cc22944e77498af7582feed0230cc0d0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\BABITA\.gradle\caches\transforms-3\47e46b4d4eabc953ec638f31bd6208eb\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\BABITA\.gradle\caches\transforms-3\93da019a4a70351d22cdbbb6102f016a\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\b97d264ba7e2034321939ce828ee4146\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\d1a0b0ea540b8a75bdd14200c53a1f64\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\8cbcd8d9a55969ed99430adde3bf21b8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\cc7e7d316ae5e99dcc28ee382bfcc10b\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\28f9a59ae3bed3729fc2d4f039b34bcb\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\f7dddc625695e58803e0df914b6b3233\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\6aceee71f4a574f25437bf9da8769dc2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\26aa74470877db0e466a0d636652e625\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\787a31a523bb778b32d385a81f8c5f64\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\fda1c4f28f0c1e46d0a4b5777fca57d5\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3957b215c84c4850c50b1ed3e6e2043a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\e3b9bc4c44f2eaf56c6f826cb99a9508\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0fe0220ca9647ef144fc6446d262018f\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\32b77a2cc063a8f70d5277441b838b90\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\BABITA\.gradle\caches\transforms-3\b5c2bbada16749b82d0f1a9aae7451b1\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\beeb7bba26f2748b0302ecf8c410853e\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\631ef85f1dccf2a27e1b1d701fc3ab68\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\0a4c692f68e6762beaa75b8248505d99\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\287327dcb69490b2b9a9c8db29ebadc1\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\22762b022a343532ca80930ae8ee0d4b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\f1c544d668834be562363483aa145217\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\b4014d37a1cad886af77740c4b80e601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\5c6acaefa7186acf464478162ae54e1f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\555bbb436c0a240d6b2518ad1f3d48e1\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\0aefe79634958a700e79f63cc457d64a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\39c1094eb17014b1de4a09f7ba111430\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\7c3562db9a5fe84cabc65d3953f0ebb4\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3c46c721ca926f5413f5c505d68530b4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\bcf0d07ebc966442273b497fe66dad18\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\ead37ec47681e67e402d8c673ad5f3a6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\40214b267a463b98e98b60b6ede9996a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\70c0de23bf38faf1383c7e16ad2f12e8\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\BABITA\.gradle\caches\transforms-3\69c49aa4f42760d4c0185d0f75c65018\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\BABITA\.gradle\caches\transforms-3\69c49aa4f42760d4c0185d0f75c65018\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\BABITA\.gradle\caches\transforms-3\abf968ab37999b7b57264254c7a3c487\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\BABITA\.gradle\caches\transforms-3\abf968ab37999b7b57264254c7a3c487\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\0cafd81d7f7dc16e00ea648ec8c04654\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\0cafd81d7f7dc16e00ea648ec8c04654\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\4f2565e9f06dfaf8ca7f8bfea6de6c70\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\4f2565e9f06dfaf8ca7f8bfea6de6c70\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\85ed68ceb7371b0770c00493ee15c731\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\85ed68ceb7371b0770c00493ee15c731\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\d11e0713847f4ba180839706dd818d2f\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\d11e0713847f4ba180839706dd818d2f\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\559a35a2e5d86904e8bc9d8f988acce4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\559a35a2e5d86904e8bc9d8f988acce4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\480761c712388bc147623ca6dc2f9114\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\480761c712388bc147623ca6dc2f9114\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\704e7e707cfb6517b3de339af63f44f2\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\704e7e707cfb6517b3de339af63f44f2\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\7d409458147ac5ea985b3c2d2e86340e\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\7d409458147ac5ea985b3c2d2e86340e\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\5b6dedf8dbfb9eecf07ac56da952583b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\5b6dedf8dbfb9eecf07ac56da952583b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\cc22944e77498af7582feed0230cc0d0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\cc22944e77498af7582feed0230cc0d0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\b4014d37a1cad886af77740c4b80e601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\b4014d37a1cad886af77740c4b80e601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\5c6acaefa7186acf464478162ae54e1f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\5c6acaefa7186acf464478162ae54e1f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:13:9-53
+	android:dataExtractionRules
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.chatapplication.ChatActivity
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.example.chatapplication.SignUp
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:19:13-35
+activity#com.example.chatapplication.Login
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:22:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.chatapplication.MainActivity
+ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:30:9-32:49
+	android:exported
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml:31:13-41
+uses-sdk
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\BABITA\.gradle\caches\transforms-3\4a0ee0fbf27d4f7720df1f9f8f2049e6\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\BABITA\.gradle\caches\transforms-3\4a0ee0fbf27d4f7720df1f9f8f2049e6\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\BABITA\.gradle\caches\transforms-3\69c49aa4f42760d4c0185d0f75c65018\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\BABITA\.gradle\caches\transforms-3\69c49aa4f42760d4c0185d0f75c65018\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\BABITA\.gradle\caches\transforms-3\abf968ab37999b7b57264254c7a3c487\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\BABITA\.gradle\caches\transforms-3\abf968ab37999b7b57264254c7a3c487\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\BABITA\.gradle\caches\transforms-3\43d8000e9635302aac953e44cd2eaab9\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\BABITA\.gradle\caches\transforms-3\43d8000e9635302aac953e44cd2eaab9\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\BABITA\.gradle\caches\transforms-3\84b3c2787a7215259fd039d023707f4b\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\BABITA\.gradle\caches\transforms-3\84b3c2787a7215259fd039d023707f4b\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\43863111414e0f7385ecab8bd5d0132c\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\43863111414e0f7385ecab8bd5d0132c\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\0cafd81d7f7dc16e00ea648ec8c04654\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\0cafd81d7f7dc16e00ea648ec8c04654\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\4f2565e9f06dfaf8ca7f8bfea6de6c70\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\4f2565e9f06dfaf8ca7f8bfea6de6c70\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\85ed68ceb7371b0770c00493ee15c731\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\85ed68ceb7371b0770c00493ee15c731\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\9bc68f3d2f7db2eb18032461333538e7\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\BABITA\.gradle\caches\transforms-3\9bc68f3d2f7db2eb18032461333538e7\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\BABITA\.gradle\caches\transforms-3\11f1f6c5c0bdb7d4308dca0a5b5de9ea\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\BABITA\.gradle\caches\transforms-3\11f1f6c5c0bdb7d4308dca0a5b5de9ea\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\d11e0713847f4ba180839706dd818d2f\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\d11e0713847f4ba180839706dd818d2f\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\a051e45db112f16bc22ccfddb48e42d2\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\a051e45db112f16bc22ccfddb48e42d2\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\559a35a2e5d86904e8bc9d8f988acce4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\559a35a2e5d86904e8bc9d8f988acce4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\480761c712388bc147623ca6dc2f9114\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\480761c712388bc147623ca6dc2f9114\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\704e7e707cfb6517b3de339af63f44f2\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\704e7e707cfb6517b3de339af63f44f2\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\7d409458147ac5ea985b3c2d2e86340e\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\7d409458147ac5ea985b3c2d2e86340e\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\5b6dedf8dbfb9eecf07ac56da952583b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\BABITA\.gradle\caches\transforms-3\5b6dedf8dbfb9eecf07ac56da952583b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\cc22944e77498af7582feed0230cc0d0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\cc22944e77498af7582feed0230cc0d0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\BABITA\.gradle\caches\transforms-3\47e46b4d4eabc953ec638f31bd6208eb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\BABITA\.gradle\caches\transforms-3\47e46b4d4eabc953ec638f31bd6208eb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\BABITA\.gradle\caches\transforms-3\93da019a4a70351d22cdbbb6102f016a\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\BABITA\.gradle\caches\transforms-3\93da019a4a70351d22cdbbb6102f016a\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\b97d264ba7e2034321939ce828ee4146\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\b97d264ba7e2034321939ce828ee4146\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\d1a0b0ea540b8a75bdd14200c53a1f64\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\d1a0b0ea540b8a75bdd14200c53a1f64\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\8cbcd8d9a55969ed99430adde3bf21b8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\8cbcd8d9a55969ed99430adde3bf21b8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\cc7e7d316ae5e99dcc28ee382bfcc10b\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\cc7e7d316ae5e99dcc28ee382bfcc10b\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\28f9a59ae3bed3729fc2d4f039b34bcb\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\28f9a59ae3bed3729fc2d4f039b34bcb\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\f7dddc625695e58803e0df914b6b3233\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\f7dddc625695e58803e0df914b6b3233\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\6aceee71f4a574f25437bf9da8769dc2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\6aceee71f4a574f25437bf9da8769dc2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\26aa74470877db0e466a0d636652e625\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\26aa74470877db0e466a0d636652e625\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\787a31a523bb778b32d385a81f8c5f64\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\787a31a523bb778b32d385a81f8c5f64\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\fda1c4f28f0c1e46d0a4b5777fca57d5\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\fda1c4f28f0c1e46d0a4b5777fca57d5\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3957b215c84c4850c50b1ed3e6e2043a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3957b215c84c4850c50b1ed3e6e2043a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\e3b9bc4c44f2eaf56c6f826cb99a9508\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\e3b9bc4c44f2eaf56c6f826cb99a9508\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0fe0220ca9647ef144fc6446d262018f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0fe0220ca9647ef144fc6446d262018f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\32b77a2cc063a8f70d5277441b838b90\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\32b77a2cc063a8f70d5277441b838b90\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\BABITA\.gradle\caches\transforms-3\b5c2bbada16749b82d0f1a9aae7451b1\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\BABITA\.gradle\caches\transforms-3\b5c2bbada16749b82d0f1a9aae7451b1\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\beeb7bba26f2748b0302ecf8c410853e\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\beeb7bba26f2748b0302ecf8c410853e\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\631ef85f1dccf2a27e1b1d701fc3ab68\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\631ef85f1dccf2a27e1b1d701fc3ab68\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\0a4c692f68e6762beaa75b8248505d99\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\0a4c692f68e6762beaa75b8248505d99\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\287327dcb69490b2b9a9c8db29ebadc1\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\287327dcb69490b2b9a9c8db29ebadc1\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\22762b022a343532ca80930ae8ee0d4b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\22762b022a343532ca80930ae8ee0d4b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\f1c544d668834be562363483aa145217\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\f1c544d668834be562363483aa145217\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\b4014d37a1cad886af77740c4b80e601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\b4014d37a1cad886af77740c4b80e601\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\5c6acaefa7186acf464478162ae54e1f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\5c6acaefa7186acf464478162ae54e1f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\555bbb436c0a240d6b2518ad1f3d48e1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\555bbb436c0a240d6b2518ad1f3d48e1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\0aefe79634958a700e79f63cc457d64a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\0aefe79634958a700e79f63cc457d64a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\39c1094eb17014b1de4a09f7ba111430\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\BABITA\.gradle\caches\transforms-3\39c1094eb17014b1de4a09f7ba111430\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\7c3562db9a5fe84cabc65d3953f0ebb4\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\7c3562db9a5fe84cabc65d3953f0ebb4\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3c46c721ca926f5413f5c505d68530b4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3c46c721ca926f5413f5c505d68530b4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\bcf0d07ebc966442273b497fe66dad18\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\bcf0d07ebc966442273b497fe66dad18\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\ead37ec47681e67e402d8c673ad5f3a6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\ead37ec47681e67e402d8c673ad5f3a6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\40214b267a463b98e98b60b6ede9996a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\40214b267a463b98e98b60b6ede9996a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\70c0de23bf38faf1383c7e16ad2f12e8\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\70c0de23bf38faf1383c7e16ad2f12e8\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BABITA\Android Projects\ChatApplication\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\db054903eafb0887b21ee637b4b7bb9f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\02bd86fb3f6c10f2b255808b5af9df30\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:15:17-124
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\5804f08e5df8e615b1b2ccc8a6b59b00\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:12:17-116
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\ac0fea640b8bdb8e703be1adece10c7e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\BABITA\.gradle\caches\transforms-3\4a0ee0fbf27d4f7720df1f9f8f2049e6\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\BABITA\.gradle\caches\transforms-3\4a0ee0fbf27d4f7720df1f9f8f2049e6\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\BABITA\.gradle\caches\transforms-3\4a0ee0fbf27d4f7720df1f9f8f2049e6\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\BABITA\.gradle\caches\transforms-3\4a0ee0fbf27d4f7720df1f9f8f2049e6\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\3a97228476b62e0dbfbc5c450bbcbd24\transformed\firebase-auth-22.0.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\BABITA\.gradle\caches\transforms-3\d57eac1f88aa62a3bd05b17191f6de81\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\704e7e707cfb6517b3de339af63f44f2\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\BABITA\.gradle\caches\transforms-3\704e7e707cfb6517b3de339af63f44f2\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\499296898f920e19eed74e837e33488e\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\d51821fd909e1149d09559c183e96367\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\BABITA\.gradle\caches\transforms-3\3e9e89e69ef4605a5664b65a210fac77\transformed\firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\BABITA\.gradle\caches\transforms-3\4babf90e9fb9b45f219323f42b059fe7\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\3f713d06431e19211ab88bf97998e838\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\92a5ed4c63c671d352d06f6aafbda438\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\BABITA\.gradle\caches\transforms-3\1bf8ccc64d4dac5025319472f5d10dc8\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\BABITA\.gradle\caches\transforms-3\0e4a8bd98187e5a9eb7a12e043c7c29a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\5c6acaefa7186acf464478162ae54e1f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BABITA\.gradle\caches\transforms-3\5c6acaefa7186acf464478162ae54e1f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\BABITA\.gradle\caches\transforms-3\4bdcbfa3b6fc6dd9a5c9a7af81d2ba13\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.chatapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.chatapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\BABITA\.gradle\caches\transforms-3\9cf89a6888f1a4ebc33fefccbb55a06c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BABITA\.gradle\caches\transforms-3\82eb3a596e577c3de645c99f05edb9dd\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
